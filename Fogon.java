@@ -6,9 +6,10 @@ public class Fogon {
     //fogon encendido o no
     private boolean encendido;
     
-    public Fogon (String cocineroActual){
+    public Fogon (String cocineroActual, boolean encenderTrueFalse){
         Cocinero = cocineroActual;
-        grados = 0;      
+        grados = 0;
+        encendido = encenderTrueFalse; 
     }
        
     public void encenderFogon(){

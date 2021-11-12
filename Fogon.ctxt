@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Fogon
-comment1.params=cocineroActual
-comment1.target=Fogon(java.lang.String)
+comment1.params=cocineroActual\ encenderTrueFalse
+comment1.target=Fogon(java.lang.String,\ boolean)
 comment2.params=
 comment2.target=void\ encenderFogon()
 comment3.params=
